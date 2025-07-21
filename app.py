@@ -58,4 +58,5 @@ st.markdown("---  \n", unsafe_allow_html=True)
 st.markdown("## 💡 Important Notes:")
 st.markdown("### Trail PowerBI Pro version won't allow to web publish Dashboard")
 st.markdown("### Contact Admin for Access")
+st.markdown("#### Shushant: 9953314199, g24ai1116@iitj.ac.in")
 
