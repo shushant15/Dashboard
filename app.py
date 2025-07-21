@@ -56,6 +56,6 @@ components.html(html_code, height=800, scrolling=False)
 
 st.markdown("---  \n", unsafe_allow_html=True)
 st.markdown("## 💡 Important Notes:")
-st.markdown("### Trail PowerBI Pro version wont allow to web publish Dashboard")
+st.markdown("### Trail PowerBI Pro version won't allow to web publish Dashboard")
 st.markdown("### Contact Admin for Access")
 
